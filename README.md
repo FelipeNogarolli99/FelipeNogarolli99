@@ -43,8 +43,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/felipe-nogarolli-macedo-a0461715b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FelipeNogarolli99&&style=flat-square" align="center" />
-</div>  
+ 
   
