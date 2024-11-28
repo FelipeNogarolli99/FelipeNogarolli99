@@ -1,9 +1,9 @@
 ## Hi 👋👋👋👋👋👋
 
-👋 Olá, eu sou o Felipe Macedo!
-🎯 Desenvolvedor Full Stack | Apaixonado por Tecnologia e Soluções Inteligentes
-🌍 De Curitiba, PR, Brasil
-🎓 Bacharel em Sistemas de Informação pela PUCPR
+👋 Olá, eu sou o Felipe Macedo! </br>
+🎯 Desenvolvedor Full Stack | Apaixonado por Tecnologia e Soluções Inteligentes </br>
+🌍 De Curitiba, PR, Brasil </br>
+🎓 Bacharel em Sistemas de Informação pela PUCPR </br>
 <!--
 **FelipeNogarolli99/FelipeNogarolli99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Sobre mim
-👨‍💻 Desenvolvo aplicações com foco em React, Node.js, NestJS, JAVA e bancos de dados como MySQL e MongoDB.
-🌊 Nas horas vagas, adoro praticar esportes como nadar, surfar, andar de skate, e me desafiar com atividades que trazem adrenalina.
-🎨 Também sou fascinado por projetos criativos, seja criando um site dinâmico , fazendo APIs e resulvendo problemas do dia a dia.
-🎯 Meu objetivo é criar experiências digitais impactantes e resolver problemas com eficiência.
+🚀 Sobre mim </br>
+👨‍💻 Desenvolvo aplicações com foco em React, Node.js, NestJS, JAVA e bancos de dados como MySQL e MongoDB. </br>
+🌊 Nas horas vagas, adoro praticar esportes como nadar, surfar, andar de skate, e me desafiar com atividades que trazem adrenalina. </br>
+🎨 Também sou fascinado por projetos criativos, seja criando um site dinâmico , fazendo APIs e resulvendo problemas do dia a dia. </br>
+🎯 Meu objetivo é criar experiências digitais impactantes e resolver problemas com eficiência. </br>
 
 
 
